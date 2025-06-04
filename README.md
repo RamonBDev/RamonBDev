@@ -33,9 +33,9 @@
 
 ## 📂 Projeto em destaque
 
-| Projeto | Tecnologias | Descrição |
-|--------|-------------|-----------|
-| [**Meu Projeto**](prti.netlify.app)
+| Projeto | Descrição |
+|--------|-----------|
+| [**Meu Projeto**](prti.netlify.app) | Projeto pessoal desenvolvido para praticar e aplicar meus conhecimentos em desenvolvimento web |
 
 ---
 
