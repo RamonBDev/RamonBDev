@@ -35,14 +35,14 @@
 
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|-----------|
-| [**Meu Projeto**](https://github.com/RamonBDev) | React, Node.js (ou outras usadas) | Projeto pessoal desenvolvido para praticar e aplicar meus conhecimentos em desenvolvimento web |
+| [**Meu Projeto**](prti.netlify.app)
 
 ---
 
 ## 📫 Contato
 
-- 💼 LinkedIn: [linkedin.com/in/ramonbc](https://www.linkedin.com/in/ramonbc/)
-- 📧 Email: ramon.seu@email.com (troque aqui pelo seu real)
+- 💼 LinkedIn: https://www.linkedin.com/in/ramonbc/
+- 📧 Email: ramon.barros77@hotmail.com
 
 ---
 
