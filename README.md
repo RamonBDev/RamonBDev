@@ -35,7 +35,7 @@
 
 | Projeto | Descrição |
 |--------|-----------|
-| [**Meu Projeto**](prti.netlify.app) | Projeto pessoal desenvolvido para praticar e aplicar meus conhecimentos em desenvolvimento web |
+|[prti.netlify.app](https://prti.netlify.app/) | Projeto pessoal desenvolvido para praticar e aplicar meus conhecimentos em desenvolvimento web |
 
 ---
 
@@ -43,7 +43,7 @@
 
 - 💼 LinkedIn: https://www.linkedin.com/in/ramonbc/
 - 📧 Email: ramon.barros77@hotmail.com
-- 💼 Portifolio: (https://prti.netlify.app/)
+- 💼 Portifolio: https://prti.netlify.app/
 ---
 
 > 💬 “Aprender, praticar, evoluir: esse é o meu ciclo como desenvolvedor.”
