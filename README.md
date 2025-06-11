@@ -43,7 +43,7 @@
 
 - 💼 LinkedIn: https://www.linkedin.com/in/ramonbc/
 - 📧 Email: ramon.barros77@hotmail.com
-
+- 💼 Portifolio: (https://prti.netlify.app/)
 ---
 
 > 💬 “Aprender, praticar, evoluir: esse é o meu ciclo como desenvolvedor.”
